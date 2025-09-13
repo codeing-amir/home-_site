@@ -30,3 +30,4 @@ $(document).ready(function() {
   magnifPopup();
 
 });
+#Call the functions 
